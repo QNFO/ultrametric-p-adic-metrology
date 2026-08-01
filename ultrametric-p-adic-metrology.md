@@ -3,7 +3,7 @@ title: "Passive Error Resilience Through Ultrametric Geometry: A Proposal for p-
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-01"
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo.21748128"
+doi: "10.5281/zenodo.21748299"
 status: "published"
 keywords:
   - ultrametric
