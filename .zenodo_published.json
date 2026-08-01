@@ -1,0 +1,139 @@
+{
+  "created": "2026-08-01T21:15:12.394090+00:00",
+  "modified": "2026-08-01T21:15:12.811175+00:00",
+  "id": 21748249,
+  "conceptrecid": "21748127",
+  "doi": "10.5281/zenodo.21748249",
+  "conceptdoi": "10.5281/zenodo.21748127",
+  "doi_url": "https://doi.org/10.5281/zenodo.21748249",
+  "metadata": {
+    "title": "Passive Error Resilience Through Ultrametric Geometry: A Proposal for p-Adic Quantum Metrology",
+    "doi": "10.5281/zenodo.21748249",
+    "publication_date": "2026-08-01",
+    "description": "<strong>Version 1.1 (2026-08-01) \u2014 FULL FILE REMEDIATION</strong><br><br>Version 1.0 was published as markdown-only, which is unreadable to human consumers on zenodo.org (raw LaTeX visible). This version adds the rendered PDF (primary artifact), README, PROVENANCE-BUNDLE.zip, and supplementary artifacts.<br><br>Content: a proposal for p-adic quantum metrology exploiting passive error resilience through ultrametric geometry (Bruhat-Tits tree structure). Compares against surface-code fault-tolerant quantum computing (FTQC) on resource requirements: ~10 physical qudits vs ~10^6, room-temperature operation vs ~10 mK, zero ancilla vs ~99%. Registers three dated, falsifiable calibration predictions ([WEAK] anchors) for photonic noise correlation structure, precision improvement, and demonstration timeline.<br><br>Part of the Adelic Core Research Program (ACRP).",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Quni-Gudzinas, Rowan Brad",
+        "affiliation": "Independent Researcher",
+        "orcid": "0009-0002-4317-5604"
+      }
+    ],
+    "keywords": [
+      "ultrametric",
+      "p-adic",
+      "quantum metrology",
+      "quantum error correction",
+      "Bruhat-Tits tree",
+      "passive error resilience",
+      "room-temperature quantum sensing"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.21748128",
+        "relation": "isNewVersionOf",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "https://github.com/QNFO/ultrametric-p-adic-metrology",
+        "relation": "isSupplementedBy",
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5281/zenodo.21747228",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.21736300",
+        "relation": "cites",
+        "scheme": "doi"
+      }
+    ],
+    "version": "1.1",
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "publication",
+    "publication_type": "preprint",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.21748249",
+      "recid": 21748249
+    }
+  },
+  "title": "Passive Error Resilience Through Ultrametric Geometry: A Proposal for p-Adic Quantum Metrology",
+  "links": {
+    "self": "https://zenodo.org/api/records/21748249",
+    "html": "https://zenodo.org/records/21748249",
+    "doi": "https://doi.org/10.5281/zenodo.21748249",
+    "parent_doi": "https://doi.org/10.5281/zenodo.21748127",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.21748249.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.21748127.svg",
+    "files": "https://zenodo.org/api/records/21748249/files",
+    "bucket": "https://zenodo.org/api/files/d1242ebd-a171-4d7d-a660-58784f3b36be",
+    "thumb250": "https://zenodo.org/record/21748249/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/21748249/thumb10",
+      "50": "https://zenodo.org/record/21748249/thumb50",
+      "100": "https://zenodo.org/record/21748249/thumb100",
+      "250": "https://zenodo.org/record/21748249/thumb250",
+      "750": "https://zenodo.org/record/21748249/thumb750",
+      "1200": "https://zenodo.org/record/21748249/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/21748249",
+    "latest_draft_html": "https://zenodo.org/deposit/21748249",
+    "publish": "https://zenodo.org/api/deposit/depositions/21748249/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/21748249/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/21748249/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/21748249/actions/newversion",
+    "record": "https://zenodo.org/api/records/21748249",
+    "record_html": "https://zenodo.org/record/21748249",
+    "latest": "https://zenodo.org/api/records/21748249/versions/latest",
+    "latest_html": "https://zenodo.org/records/21748249/latest"
+  },
+  "record_id": 21748249,
+  "owner": 1328013,
+  "files": [
+    {
+      "id": "a1e575c2-8ccd-4f19-936a-77e2d07600e0",
+      "filename": "README.md",
+      "filesize": 1966,
+      "checksum": "4a57e0cba5a65c853562d86b904ddcd4",
+      "links": {
+        "self": "https://zenodo.org/api/records/21748249/files/a1e575c2-8ccd-4f19-936a-77e2d07600e0",
+        "download": "https://zenodo.org/api/records/21748249/draft/files/README.md/content"
+      }
+    },
+    {
+      "id": "bea89371-f03e-40ec-b37e-f3be342a29d3",
+      "filename": "ultrametric-p-adic-metrology.md",
+      "filesize": 24188,
+      "checksum": "0a4ba0fd4ee05854dd95f1ff6e6cf49a",
+      "links": {
+        "self": "https://zenodo.org/api/records/21748249/files/bea89371-f03e-40ec-b37e-f3be342a29d3",
+        "download": "https://zenodo.org/api/records/21748249/draft/files/ultrametric-p-adic-metrology.md/content"
+      }
+    },
+    {
+      "id": "ba7186d3-9d54-4d78-b142-257da053c1b2",
+      "filename": "ultrametric-p-adic-metrology.pdf",
+      "filesize": 75951,
+      "checksum": "23f4ba6d149a0e0190de13b2babc32db",
+      "links": {
+        "self": "https://zenodo.org/api/records/21748249/files/ba7186d3-9d54-4d78-b142-257da053c1b2",
+        "download": "https://zenodo.org/api/records/21748249/draft/files/ultrametric-p-adic-metrology.pdf/content"
+      }
+    },
+    {
+      "id": "61ed7f43-0a4c-47bf-94a7-323586ea2b5c",
+      "filename": "PROVENANCE-BUNDLE.zip",
+      "filesize": 101689,
+      "checksum": "62fac54bde0d37bb938c1ab7990ac835",
+      "links": {
+        "self": "https://zenodo.org/api/records/21748249/files/61ed7f43-0a4c-47bf-94a7-323586ea2b5c",
+        "download": "https://zenodo.org/api/records/21748249/draft/files/PROVENANCE-BUNDLE.zip/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}
