@@ -73,6 +73,8 @@
 | Adelic Shannon Theory v2.1 | — | 10.5281/zenodo.21698976 |
 | Adelic Entropic Numbers v1.1 | — | 10.5281/zenodo.21698978 |
 | Adelic Rate-Distortion Theory v1.0 | — | 10.5281/zenodo.21705076 |
+| ACRP-08 Paradigm Forecast | `QNFO/acrp08-paradigm-forecast` | 10.5281/zenodo.21747228 |
+| ACRP-02 (ZBW P1 Correction) | `QNFO/zbw-majorana-tqc` | 10.5281/zenodo.21736091 |
 
 ## 8. Core Claim Lock (§1.2)
 
