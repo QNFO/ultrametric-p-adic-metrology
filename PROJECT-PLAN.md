@@ -13,11 +13,11 @@
 | Phase | Name | Status | Deliverables |
 |---|---|---|---|
 | **0** | Project Init | ✅ Complete | Repo, scaffold, PROJECT-PLAN, .gitignore |
-| **1** | Due Diligence | ⬜ Pending | KG query, D1 cross-ref, external literature search, gap analysis |
-| **2** | Literature Search | ⬜ Pending | Multi-source search (OpenAlex, Crossref, Zenodo, Europe PMC, arXiv, web, Vectorize, KG), dedup, classify |
-| **3** | Citation Management | ⬜ Pending | Extract citations, verify BibTeX, auto-generate missing DOIs |
-| **4** | Structured Forecast | ⬜ Pending | Domain assessment, candidate ranking, assumption audit, red-team, sensitivity analysis, calibration register, effort allocation, strategic memo, cross-review, practical applications, counterfactual backcasting |
-| **5** | Publication | ⬜ Pending | Write paper (`ultrametric-p-adic-metrology.md`), build PDF, Zenodo upload with DOI |
+| **1** | Due Diligence | ✅ v0.2 | KG query, D1 cross-ref, external literature search, gap analysis |
+| **2** | Literature Search | ✅ v0.3 | Multi-source search (OpenAlex, Crossref, Zenodo, Europe PMC, arXiv, web, Vectorize, KG), dedup, classify |
+| **3** | Citation Management | ⏳ Deferred | Extract citations, verify BibTeX, auto-generate missing DOIs — deferred until paper draft exists |
+| **4** | Structured Forecast | ✅ v0.5 | Domain assessment, candidate ranking, assumption audit, red-team, sensitivity analysis, calibration register, effort allocation, practical applications, counterfactual backcasting — Light version (Stages 7-8 deferred) |
+| **5** | Publication | 📝 In Progress | Write paper (`ultrametric-p-adic-metrology.md`), build PDF, Zenodo upload with DOI |
 | **6** | Deployment | ⬜ Pending | D1 living-paper insert, papers-server Worker verification, R2 archive |
 | **7** | Dissemination | ⬜ Pending | SEO audit, Buffer social media, CWI summer school follow-up, papers.qnfo.org verification |
 | **8** | Core Distribution | ⬜ Pending | GitHub push + tag, Zenodo new-version, R2 archive sync, D1/KG records, DNSLink (optional) |
